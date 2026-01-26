@@ -1,4 +1,4 @@
-# JS Neural Network - Logic Gates
+# JS Neural Network
 
 A simple JavaScript neural network implementation from scratch, designed to learn logical gates (AND, OR, XOR) and recognize handwritten digits (MNIST dataset).
 
